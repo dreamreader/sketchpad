@@ -1,0 +1,16 @@
+{
+    "sampler":
+    {
+        "name": "grid",
+        "num_samples": "750"
+    },
+    "params":
+    {
+        "feature_size": "0.125",
+        "image_width": "256",
+        "num_orients": "4",
+        "tiles": "4",
+        "smooth_hist": "true"
+    },
+    "name": "shog"
+}
